@@ -1,0 +1,17 @@
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\bin\Debug\net10.0\TaskFlow.DataAccess.deps.json
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\bin\Debug\net10.0\TaskFlow.DataAccess.runtimeconfig.json
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\bin\Debug\net10.0\TaskFlow.DataAccess.dll
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\bin\Debug\net10.0\TaskFlow.DataAccess.pdb
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\bin\Debug\net10.0\TaskFlow.Entities.dll
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\bin\Debug\net10.0\TaskFlow.Entities.pdb
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\TaskFlow.DataAccess.csproj.AssemblyReference.cache
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\TaskFlow.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\TaskFlow.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\TaskFlow.DataAccess.AssemblyInfo.cs
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\TaskFlow.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\TaskFlow.5488496E.Up2Date
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\TaskFlow.DataAccess.dll
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\refint\TaskFlow.DataAccess.dll
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\TaskFlow.DataAccess.pdb
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\TaskFlow.DataAccess.genruntimeconfig.cache
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.DataAccess\obj\Debug\net10.0\ref\TaskFlow.DataAccess.dll
