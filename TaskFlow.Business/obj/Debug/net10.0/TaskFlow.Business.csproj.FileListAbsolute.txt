@@ -15,3 +15,4 @@ C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.Business\obj\Debug\net10.0\TaskFlow
 C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.Business\obj\Debug\net10.0\refint\TaskFlow.Business.dll
 C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.Business\obj\Debug\net10.0\TaskFlow.Business.pdb
 C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.Business\obj\Debug\net10.0\ref\TaskFlow.Business.dll
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.Business\obj\Debug\net10.0\TaskFlow.Business.sourcelink.json

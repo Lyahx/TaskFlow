@@ -9,3 +9,4 @@ C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.Entities\obj\Debug\net10.0\TaskFlow
 C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.Entities\obj\Debug\net10.0\refint\TaskFlow.Entities.dll
 C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.Entities\obj\Debug\net10.0\TaskFlow.Entities.pdb
 C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.Entities\obj\Debug\net10.0\ref\TaskFlow.Entities.dll
+C:\Users\MSI\RiderProjects\TaskFlow\TaskFlow.Entities\obj\Debug\net10.0\TaskFlow.Entities.sourcelink.json
